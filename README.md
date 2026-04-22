@@ -32,7 +32,7 @@ Just Run, add your API key, and go.
 
 - 🤖 **Multi-AI Access**
   - Claude  
-  - ChatGPT  
+  - ChatGPT (in development)
   - Gemini  
   - Grok  
 
@@ -63,7 +63,7 @@ Just Run, add your API key, and go.
 1. Visit: https://openrouter.ai  
 2. Download source and run
 3. Generate an API key  
-4. Paste it into OpenFlow  
+4. Paste it into OpenFlow .env
 
 ---
 
@@ -87,22 +87,13 @@ npm run dev
 
 ## ⚙️ Environment Setup
 
-Create a `.env` file in the root directory:
+`.env` file in the root directory:
 
 ```env
-VITE_APP_NAME=OpenFlow
+OPENROUTEAPI=OPENROUTE API
 ```
 
 > Add additional environment variables depending on your backend or auth setup.
-
----
-
-## 🧩 Tech Stack
-
-- **Frontend:** HTML / CSS / JavaScript  
-- **Backend:** (Optional) Node.js / Supabase  
-- **API:** OpenRouter  
-- **Auth:** Supabase / Custom  
 
 ---
 
@@ -123,26 +114,6 @@ OpenFlow includes **jailbreak-style prompts** intended to explore AI capabilitie
 - [ ] Multi-model comparison view  
 - [ ] UI themes (dark/light/custom)  
 - [ ] Mobile optimization  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-```bash
-# Fork the repo
-# Create a new branch
-git checkout -b feature/your-feature
-
-# Commit your changes
-git commit -m "Add feature"
-
-# Push to your branch
-git push origin feature/your-feature
-```
-
-Then open a Pull Request 🚀
 
 ---
 
