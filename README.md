@@ -1,11 +1,11 @@
 # 🔓 OpenFlow
 
 <p align="center">
-  <img src="https://img.shields.io/github.com/bigcheesh/openflow?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/yourusername/openflow?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/yourusername/openflow?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/yourusername/openflow?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/yourusername/openflow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/bigcheesh/openflow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/bigcheesh/openflow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/bigcheesh/openflow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/bigcheesh/openflow?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/bigcheesh/openflow?style=for-the-badge" />
 </p>
 
 <p align="center">
