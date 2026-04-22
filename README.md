@@ -1,7 +1,7 @@
 # 🔓 OpenFlow
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/openflow?style=for-the-badge" />
+  <img src="https://img.shields.io/github.com/bigcheesh/openflow?style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/yourusername/openflow?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/yourusername/openflow?style=for-the-badge" />
   <img src="https://img.shields.io/github/issues/yourusername/openflow?style=for-the-badge" />
