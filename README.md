@@ -93,13 +93,9 @@ npm run dev
 
 ---
 
-## ⚙️ Environment Setup
+## ⚙️ API Setup
 
-`.env` file in the root directory:
-
-```env
-OPENROUTEAPI=OPENROUTE API
-```
+Go to the settings by hovering over the left side of the screen and paste your open router API.
 
 > Add additional environment variables depending on your backend or auth setup.
 
