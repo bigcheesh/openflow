@@ -83,6 +83,10 @@ npm install
 npm run dev
 ```
 
+<p align="center">
+  <img src="https://i.imgur.com/can4EQd.jpeg" alt="OpenFlow Preview" width="800"/>
+</p>
+
 ---
 
 ## ⚙️ Environment Setup
