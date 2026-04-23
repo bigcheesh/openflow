@@ -1,4 +1,4 @@
-# 🔓 OpenFlow
+# 🔓 OpenFlow VERSION 1.7.1
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/bigcheesh/openflow?style=for-the-badge" />
