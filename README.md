@@ -113,8 +113,7 @@ OpenFlow includes **jailbreak-style prompts** intended to explore AI capabilitie
 
 ## 🗺️ Roadmap
 
-- [] Custom jailbreak prompt editor  
-- [ ] Chat history saving  
+- [ ] Custom jailbreak prompt editor  
 - [ ] Multi-model comparison view  
 - [ ] UI themes (dark/light/custom)  
 - [ ] Mobile optimization  
