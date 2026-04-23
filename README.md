@@ -63,7 +63,7 @@ Just Run, add your API key, and go.
 1. Visit: https://openrouter.ai  
 2. Download source and run
 3. Generate an API key  
-4. Paste it into OpenFlow .env
+4. Paste it into OpenFlow website when ran
 
 ---
 
